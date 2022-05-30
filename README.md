@@ -1,3 +1,3 @@
 # git-demo
-## feature-BBB
+## Feature list
 - [feature-BBB](feature-BBB.md)
