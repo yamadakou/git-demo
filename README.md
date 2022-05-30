@@ -1,3 +1,3 @@
 # git-demo
-## feature-AAA
+## features
 - [feature-AAA](feature-AAA.md)
